@@ -154,17 +154,17 @@ CREATE TABLE IF NOT EXISTS `shorttrip_bookings` (
 --
 
 INSERT INTO `shorttrip_bookings` (`order_id`, `user_id`, `name`, `mobile`, `email`, `car_id`, `b_date`, `p_t`, `address`, `d_t`, `travel`, `paid`, `delivered`, `pay_id`, `timestamp`) VALUES
-(12, 15, 'Everly', '9361292006', 'everly@gmail.com', 1, '2021-05-01', '10:30:00', 'kesavarthini bus stand', '21:00:00', 'within chennai', 'Y', 'N', 'pay_H505RxFhaTKxxx', '2021-04-30 09:57:46'),
-(25, 19, 'Vivek', '1234123421', 'vivek@gmail.com', 1, '2021-05-19', '10:30:00', 'vadapalini bus stand', '20:00:00', 'within chennai,vandalur zoo', 'Y', 'N', 'pay_H6B6i1DaozEuZm', '2021-05-03 09:23:28'),
-(22, 16, 'Suresh', '2222222222', 'suresh@gmail.com', 1, '2021-05-04', '10:30:00', 'vadapalini bus stand', '20:00:00', 'within chennai', 'Y', 'N', 'pay_H5EVnnAyMMixMP', '2021-05-01 00:04:21'),
-(23, 15, 'Everly', '9361292006', 'everly@gmail.com', 6, '2021-05-03', '10:30:00', 'kesavarthini bus stand', '20:00:00', 'within chennai', 'Y', 'N', 'pay_H5Os2W5R7EaMUY', '2021-05-01 10:11:59'),
-(24, 18, 'Vivek', '7081710212', 'viveksinghbaghel20@gmail.com', 6, '2021-05-05', '10:30:00', 'vadapalini bus stand', '20:00:00', 'within chennai, vandalur zoo', 'Y', 'N', 'pay_H62ehenCvNE8Z3', '2021-05-03 01:07:20'),
-(20, 16, 'Suresh', '2222222222', 'suresh@gmail.com', 1, '2021-05-03', '10:20:00', 'chennai', '10:30:00', 'jdfla', 'Y', 'N', 'pay_H53NmyajndaYSn', '2021-04-30 13:11:06'),
-(26, 15, 'Everly', '9361292006', 'everly@gmail.com', 9, '2021-05-18', '10:30:00', 'kesavarithini bus stand', '20:00:00', 'within chennai', 'Y', 'N', 'pay_H7Qr4NymHjLLwK', '2021-05-06 13:25:48'),
-(27, 19, 'Vivek', '1234123421', 'vivek@gmail.com', 2, '2021-06-21', '10:30:00', 'sdka', '20:00:00', 'gduiwk', 'Y', 'N', 'pay_HITM1UXDTqdigB', '2021-06-03 11:02:28'),
-(28, 19, 'Vivek', '1234123421', 'vivek@gmail.com', 9, '2021-06-21', '10:30:00', 'dwks', '20:00:00', 'dsjoad', 'Y', 'N', 'pay_HITlPQDMwnzz1T', '2021-06-03 11:26:38'),
-(29, 19, 'Vivek', '1234123421', 'vivek@gmail.com', 9, '2021-06-22', '10:30:00', 'jdisk', '11:30:00', 'dhsiw', 'Y', 'N', 'pay_HIUxfmZVdxIR74', '2021-06-03 12:36:53'),
-(31, 20, 'subatra', '3333333333', 'subatra@gmail.com', 3, '2021-08-24', '10:30:00', 'id', '10:30:00', 'jk', 'Y', 'N', 'pay_HnqLcWw6OG0eBi', '2021-08-21 17:40:45');
+(12, 15, 'Everly', '9361292006', 'ccc@gmail.com', 1, '2021-05-01', '10:30:00', 'kesavarthini bus stand', '21:00:00', 'within chennai', 'Y', 'N', 'pay_H505RxFhaTKxxx', '2021-04-30 09:57:46'),
+(25, 19, 'Vivek', '1234123421', 'xxx@gmail.com', 1, '2021-05-19', '10:30:00', 'vadapalini bus stand', '20:00:00', 'within chennai,vandalur zoo', 'Y', 'N', 'pay_H6B6i1DaozEuZm', '2021-05-03 09:23:28'),
+(22, 16, 'Suresh', '2222222222', 'lll@gmail.com', 1, '2021-05-04', '10:30:00', 'vadapalini bus stand', '20:00:00', 'within chennai', 'Y', 'N', 'pay_H5EVnnAyMMixMP', '2021-05-01 00:04:21'),
+(23, 15, 'Everly', '9361292006', 'uuu@gmail.com', 6, '2021-05-03', '10:30:00', 'kesavarthini bus stand', '20:00:00', 'within chennai', 'Y', 'N', 'pay_H5Os2W5R7EaMUY', '2021-05-01 10:11:59'),
+(24, 18, 'Vivek', '7081710212', 'mmm@gmail.com', 6, '2021-05-05', '10:30:00', 'vadapalini bus stand', '20:00:00', 'within chennai, vandalur zoo', 'Y', 'N', 'pay_H62ehenCvNE8Z3', '2021-05-03 01:07:20'),
+(20, 16, 'Suresh', '2222222222', 'xxx@gmail.com', 1, '2021-05-03', '10:20:00', 'chennai', '10:30:00', 'jdfla', 'Y', 'N', 'pay_H53NmyajndaYSn', '2021-04-30 13:11:06'),
+(26, 15, 'Everly', '9361292006', 'ttt@gmail.com', 9, '2021-05-18', '10:30:00', 'kesavarithini bus stand', '20:00:00', 'within chennai', 'Y', 'N', 'pay_H7Qr4NymHjLLwK', '2021-05-06 13:25:48'),
+(27, 19, 'Vivek', '1234123421', 'ppp@gmail.com', 2, '2021-06-21', '10:30:00', 'sdka', '20:00:00', 'gduiwk', 'Y', 'N', 'pay_HITM1UXDTqdigB', '2021-06-03 11:02:28'),
+(28, 19, 'Vivek', '1234123421', 'mmm@gmail.com', 9, '2021-06-21', '10:30:00', 'dwks', '20:00:00', 'dsjoad', 'Y', 'N', 'pay_HITlPQDMwnzz1T', '2021-06-03 11:26:38'),
+(29, 19, 'Vivek', '1234123421', 'ddd@gmail.com', 9, '2021-06-22', '10:30:00', 'jdisk', '11:30:00', 'dhsiw', 'Y', 'N', 'pay_HIUxfmZVdxIR74', '2021-06-03 12:36:53'),
+(31, 20, 'subatra', '3333333333', 'qqq@gmail.com', 3, '2021-08-24', '10:30:00', 'id', '10:30:00', 'jk', 'Y', 'N', 'pay_HnqLcWw6OG0eBi', '2021-08-21 17:40:45');
 
 -- --------------------------------------------------------
 
