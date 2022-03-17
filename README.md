@@ -7,6 +7,9 @@ Mini Project for DBMS course
 ## ER Diagram
 <img src="Images/E-R Diagram  car erental system.png" />
 
+## Conceptual Table from E-R Diagram
+<img src="Images/Relational Database Tables Diagram.png"/>
+
 
 ## Team
 
