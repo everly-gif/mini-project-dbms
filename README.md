@@ -6,6 +6,8 @@ Mini Project for DBMS course
 
 ## ER Diagram
 <img src="Images/E-R Diagram  car erental system.png" />
+
+
 ## Team
 
 <div align="center">
